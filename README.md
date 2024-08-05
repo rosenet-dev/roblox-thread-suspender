@@ -1,4 +1,4 @@
-# roblox-thread-suspender
+# Roblox Thread Suspender
 This tool is designed to remove scanning threads created by BYFRON, allowing successful use of IDA Pro for obtaining offsets and conducting analysis on Roblox binaries.
 
 # Features
